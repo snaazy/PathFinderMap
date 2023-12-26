@@ -16,6 +16,14 @@ Le programme est organisé en plusieurs classes Java :
 
 5. `App.java` : Cette classe contient la méthode `main` où le programme principal s'exécute. Vous y trouverez les méthodes `AStar` et `Dijkstra` pour l'exécution des algorithmes.
 
+## Exécution du Programme
+
+Pour exécuter le programme, placez-vous à la racine du projet, là où se trouve le script `run.sh`. Exécutez le script en tapant la commande suivante dans votre terminal :
+
+```bash
+./run.sh
+
+
 ## Format de la Carte
 
 La carte est fournie sous forme de fichier texte avec un format spécifique. Le fichier doit contenir des métadonnées telles que la taille de la carte, les types de cases, les couleurs, et le graphe lui-même. Un exemple de format de carte est fourni dans le fichier ```graph.txt```.
