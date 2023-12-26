@@ -21,8 +21,8 @@ Le programme est organisé en plusieurs classes Java :
 Pour exécuter le programme, placez-vous à la racine du projet, là où se trouve le script `run.sh`. Exécutez le script en tapant la commande suivante dans votre terminal :
 
 ```bash
-./run.sh
-``` 
+./run.sh 
+``` 
 
 ## Format de la Carte
 
